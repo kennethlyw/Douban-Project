@@ -1,7 +1,0 @@
-
-The top 3 districts of movies in type of 科幻 are: 英国, 美国, 日本. 
-The percentages in all movies of list are 51.28%, 25.64%, 17.95%.
-The top 3 districts of movies in type of 剧情 are: 美国, 日本, 英国. 
-The percentages in all movies of list are 25.25%, 24.24%, 20.20%.
-The top 3 districts of movies in type of 励志 are: 美国, 日本, 英国. 
-The percentages in all movies of list are 36.78%, 19.54%, 8.05%.
